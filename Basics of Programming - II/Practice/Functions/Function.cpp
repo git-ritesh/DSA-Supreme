@@ -28,6 +28,7 @@ int main() {
   //   cout << "Spirit" << endl;
   // }
   /* The Above Code is bulky, less-readable, less-reusable, inconsistent and redundant and lengthy  */
+  
  // No w let's use the function
  printName(); // function call
 return 0;
