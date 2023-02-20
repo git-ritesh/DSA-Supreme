@@ -1,0 +1,2 @@
+# Ignores all executable files from being pushed to remote from local repo.
+*.exe
