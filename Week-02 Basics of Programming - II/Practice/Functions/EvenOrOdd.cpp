@@ -2,7 +2,7 @@
 using namespace std;
 
 bool evenOdd( int num ) {
-  if ( num%2 == 0)
+  if ( /*num%2 == 0*/ (num&1) == 0)
     return true;
   else 
     return false;
